@@ -78,12 +78,3 @@ Acknowledgments
 This project leverages open-source AI models and frameworks. Special thanks to the developers and researchers behind Aria and Allegro for enabling such immersive content creation.
 
 Experience history, culture, and destinations like never before with LumiLens!
-
-
-This README format:
-- Introduces the project clearly with a compelling overview.
-- Details each feature in a way that emphasizes usability and value.
-- Provides installation and usage instructions for potential contributors.
-- Includes sections for license, contact, and acknowledgments for professionalism.
-
-This approach helps showcase LumiLens as an innovative and accessible AI-driven platform, while being informative and easy to follow for users and collaborators.
